@@ -1,0 +1,1 @@
+Store completeness statements of RDF data sources with provenance information, and use them to check the completeness of query answers.
